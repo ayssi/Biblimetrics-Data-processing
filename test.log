@@ -1,0 +1,23 @@
+41.249.121.228 BRECMW40MCQNjMj aitallal@imist.ma [30/Apr/2015:00:17:21 +0100] "GET https://eressources.imist.ma:443/menu HTTP/1.1" 200 0
+
+
+
+41.249.121.228 BRECMW40MCQNjMj aitallal@imist.ma [30/Apr/2015:00:17:21 +0100] "GET https://eressources.imist.ma:443/public/jquery.rwdImageMaps.min.js HTTP/1.1" 200 0
+41.249.121.228 BRECMW40MCQNjMj aitallal@imist.ma [30/Apr/2015:00:17:22 +0100] "GET https://eressources.imist.ma:443/public/jquery.min.js HTTP/1.1" 200 0
+41.249.121.228 BRECMW40MCQNjMj aitallal@imist.ma [30/Apr/2015:00:18:21 +0100] "GET http://eressources.imist.ma:80/login?url=http://www.aluka.org HTTP/1.1" 302 503
+41.249.121.228 BRECMW40MCQNjMj aitallal@imist.ma [30/Apr/2015:00:18:23 +0100] "GET http://www.aluka.org:80/ HTTP/1.1" 200 22554
+41.249.121.228 BRECMW40MCQNjMj aitallal@imist.ma [30/Apr/2015:00:18:52 +0100] "GET https://eressources.imist.ma:443/logout HTTP/1.1" 200 0
+41.249.121.228 - - [30/Apr/2015:00:19:07 +0100] "GET https://eressources.imist.ma:443/login HTTP/1.1" 200 0
+172.16.0.2 - - [30/Apr/2015:00:39:45 +0100] "GET http://eressources.imist.ma:80/ HTTP/1.0" 302 409
+10.20.20.52 - - [30/Apr/2015:08:24:59 +0100] "POST https://eressources.imist.ma:443/login HTTP/1.1" 302 0
+10.20.20.52 S7kUGuLXkiZ14Pt ayssi@imist.ma [30/Apr/2015:08:24:59 +0100] "GET https://eressources.imist.ma:443/connect?session=sS7kUGuLXkiZ14Pt&url=menu HTTP/1.1" 302 0
+10.20.20.52 S7kUGuLXkiZ14Pt ayssi@imist.ma [30/Apr/2015:08:24:59 +0100] "GET https://eressources.imist.ma:443/menu HTTP/1.1" 200 0
+10.20.20.52 S7kUGuLXkiZ14Pt ayssi@imist.ma [30/Apr/2015:08:25:00 +0100] "GET https://eressources.imist.ma:443/public/jquery.rwdImageMaps.min.js HTTP/1.1" 304 0
+10.20.20.52 S7kUGuLXkiZ14Pt ayssi@imist.ma [30/Apr/2015:08:25:36 +0100] "GET https://eressources.imist.ma:443/logout HTTP/1.1" 200 0
+10.20.20.52 - - [30/Apr/2015:08:25:39 +0100] "GET https://eressources.imist.ma:443/login HTTP/1.1" 200 0
+74.82.47.3 - - 		[30/Apr/2015:08:27:17 +0100] "GET https://eressources.imist.ma:443/ 		HTTP/1.1" 			302 0
+10.20.20.52 a2THneQxpz8M8At ayssi@imist.ma [14/May/2015:08:45:37 +0100] "GET http://www.sciencedirect.com:80/science/article/pii/009830049090008H HTTP/1.1" 200 52116
+
+10.20.20.52 a2THneQxpz8M8At ayssi@imist.ma [14/May/2015:08:46:19 +0100] "GET http://www.sciencedirect.com:80/science/article/pii/009830049090008H/pdf?md5=4cb235f262a070d568cc00444a4661d4&pid=1-s2.0-009830049090008H-main.pdf HTTP/1.1" 302 642
+10.20.20.52 a2THneQxpz8M8At ayssi@imist.ma [14/May/2015:08:46:21 +0100] "GET http://www.sciencedirect.com:80/science/suggestedArt/citeList/pii/009830049090008H/eid/1-s2.0-009830049090008H/serial HTTP/1.1" 200 4448
+
